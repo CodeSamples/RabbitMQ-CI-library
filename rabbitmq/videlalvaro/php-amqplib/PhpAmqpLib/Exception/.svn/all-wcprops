@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception
+END
+AMQPConnectionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionException.php
+END
+AMQPException.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPException.php
+END
+AMQPExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPExceptionInterface.php
+END
+AMQPProtocolConnectionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolConnectionException.php
+END
+AMQPProtocolException.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolException.php
+END
+AMQPRuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPRuntimeException.php
+END
+AMQPTimeoutException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPTimeoutException.php
+END
+AMQPOutOfBoundsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfBoundsException.php
+END
+AMQPChannelException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPChannelException.php
+END
+AMQPProtocolChannelException.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolChannelException.php
+END

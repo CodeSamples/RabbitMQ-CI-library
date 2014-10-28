@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/.travis.yml
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/phpunit.xml
+END
+NOTE.DEVELOPMENT.NOV.2011.md
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/NOTE.DEVELOPMENT.NOV.2011.md
+END
+NOTE.THENETCIRCLE.md
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/NOTE.THENETCIRCLE.md
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/README.md
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/CREDITS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/Makefile
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/composer.json
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/IO
+END
+AbstractIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/IO/AbstractIO.php
+END
+SocketIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/IO/SocketIO.php
+END
+StreamIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php
+END

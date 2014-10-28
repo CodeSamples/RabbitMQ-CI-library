@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark
+END
+file_consume.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/file_consume.php
+END
+socket_tmp_produce.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/socket_tmp_produce.php
+END
+consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/consumer.php
+END
+stream_tmp_produce.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/stream_tmp_produce.php
+END
+producer.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/producer.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/config.php
+END
+file_publish.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/benchmark/file_publish.php
+END

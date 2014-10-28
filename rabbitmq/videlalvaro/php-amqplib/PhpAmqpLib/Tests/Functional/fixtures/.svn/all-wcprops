@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/fixtures
+END
+data_1mb.bin
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/fixtures/data_1mb.bin
+END
+data_4mb.bin
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/fixtures/data_4mb.bin
+END

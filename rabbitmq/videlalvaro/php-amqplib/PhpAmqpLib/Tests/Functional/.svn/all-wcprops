@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional
+END
+StreamPublishConsumeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/StreamPublishConsumeTest.php
+END
+Bug40Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/Bug40Test.php
+END
+AbstractPublishConsumeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/AbstractPublishConsumeTest.php
+END
+FileTransferTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/FileTransferTest.php
+END
+SocketPublishConsumeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/SocketPublishConsumeTest.php
+END
+Bug49Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Tests/Functional/Bug49Test.php
+END

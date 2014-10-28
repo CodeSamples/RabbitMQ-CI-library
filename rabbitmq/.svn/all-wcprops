@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/autoload.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo
+END
+amqp_consumer_non_blocking.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_consumer_non_blocking.php
+END
+amqp_publisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_publisher.php
+END
+amqp_consumer_exclusive.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_consumer_exclusive.php
+END
+basic_get.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/basic_get.php
+END
+basic_return.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/basic_return.php
+END
+ssl_connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/ssl_connection.php
+END
+amqp_ha_consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_ha_consumer.php
+END
+amqp_publisher_exclusive.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_publisher_exclusive.php
+END
+amqp_consumer_fanout_1.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_consumer_fanout_1.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/config.php
+END
+amqp_consumer_fanout_2.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_consumer_fanout_2.php
+END
+amqp_publisher_fanout.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_publisher_fanout.php
+END
+amqp_consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/amqp_consumer.php
+END
+queue_arguments.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/demo/queue_arguments.php
+END

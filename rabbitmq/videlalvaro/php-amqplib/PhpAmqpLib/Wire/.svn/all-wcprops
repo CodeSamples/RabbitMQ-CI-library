@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire
+END
+Constants091.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/Constants091.php
+END
+GenericContent.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/GenericContent.php
+END
+AMQPWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/AMQPWriter.php
+END
+AMQPDecimal.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/AMQPDecimal.php
+END
+AMQPReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php
+END
+Constants080.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Wire/Constants080.php
+END

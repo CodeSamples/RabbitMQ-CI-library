@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Channel
+END
+AMQPChannel.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php
+END
+AbstractChannel.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/GeeVee_API/!svn/ver/179/trunk/api/public/v1/libraries/rabbitmq/videlalvaro/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php
+END
